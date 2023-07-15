@@ -33,7 +33,7 @@ def MakeClean(text):
     return " ".join(x)
 
 
-pipe = pickle.load(open("https://github.com/Naeem1144/Email-Classifier-ML/edit/main/Bernoulli_model_for_email.pkl", "rb"))
+pipe = pickle.load(open("Bernoulli_model_for_email.pkl", "rb"))
 
 
 st.title('Spam Mail Classifier')
