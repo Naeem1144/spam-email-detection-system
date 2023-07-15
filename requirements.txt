@@ -1,3 +1,4 @@
 nltk==3.8.1
 pickleshare==0.7.5
 streamlit==1.22.0
+pickle-mixin==1.0.2
