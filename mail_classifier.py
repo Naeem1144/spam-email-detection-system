@@ -46,7 +46,7 @@ if st.button('Predict'):
     result = pipe.predict([transformed_text])[0]
 
     if result == 1:
-        st.header("phishing mail")
+        st.header("Phishing Text!")
     else:
-        st.header("safe mail")
+        st.header("Safe Text")
 
