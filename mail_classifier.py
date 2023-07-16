@@ -6,7 +6,6 @@ from nltk.stem.porter import PorterStemmer
 
 stem = PorterStemmer()
 
-
 def MakeClean(text):
     text = text.lower()
     text = nltk.word_tokenize(text)
