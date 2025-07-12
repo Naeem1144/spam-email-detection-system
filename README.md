@@ -39,8 +39,8 @@ A comprehensive, machine learning-powered spam email detection system with advan
 
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/Naeem1144/spam-email-detection-system/>
-   cd spam-email-detector
+   git clone https://github.com/Naeem1144/spam-email-detection-system
+   cd spam-email-detection-system
    ```
 
 2. **Install dependencies**:
