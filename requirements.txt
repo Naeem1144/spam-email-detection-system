@@ -1,14 +1,14 @@
 # Core ML and Data Science Libraries
 scikit-learn>=1.2.2
-numpy>1.24.3
-pandas>2.0.3
+numpy>=1.24.3
+pandas>=2.0.3
 
 # Natural Language Processing
-nltk>3.8.1
+nltk>=3.8.1
 
 # Web Application Framework
-streamlit>1.38.0
+streamlit>=1.38.0
 
 # Additional Dependencies
-pickle-mixin>1.0.2
-urllib3>2.0.4
+pickle-mixin>=1.0.2
+urllib3>=2.0.4
