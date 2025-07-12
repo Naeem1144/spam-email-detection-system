@@ -1,23 +1,14 @@
 # Core ML and Data Science Libraries
-scikit-learn==1.2.2
-numpy==1.24.3
-pandas==2.0.3
+scikit-learn=>1.2.2
+numpy=>1.24.3
+pandas=>2.0.3
 
 # Natural Language Processing
-nltk==3.8.1
+nltk=>3.8.1
 
 # Web Application Framework
-streamlit==1.38.0
+streamlit=>1.38.0
 
 # Additional Dependencies
-pickle-mixin==1.0.2
-urllib3==2.0.4
-
-# Optional: For enhanced ML models (uncomment if needed)
-# xgboost==1.7.6
-# lightgbm==4.0.0
-
-# Development and Testing (optional)
-# pytest==7.4.0
-# flake8==6.0.0
-# black==23.7.0
+pickle-mixin=>1.0.2
+urllib3=>2.0.4
